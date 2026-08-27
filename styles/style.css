@@ -70,3 +70,21 @@ width: 100px;
     width: 550px;
 }
 
+.itens-extremidade-cima{
+
+background-color: aqua;
+     display: flex;
+     justify-content: space-between;
+     margin-bottom: 50px;
+}
+
+.roxo {
+   background-color: rgb(220, 183, 255);
+   display: flex;
+   justify-content: space-between;
+
+
+}
+
+
+
